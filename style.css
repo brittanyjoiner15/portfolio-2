@@ -1,3 +1,12 @@
-h1 {
-  color: red;
+.hero {
+  background-image: url(./images/computer-more-opac.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1,h3 {
+  color: black;
+  font-weight: bold;
 }
