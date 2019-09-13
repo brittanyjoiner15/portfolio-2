@@ -60,4 +60,8 @@ h5,p {
 .footer-links:hover {
   color: #202020;
   text-decration: underline;
-}s
+}
+
+a:hover {
+  color: #202020;
+}
