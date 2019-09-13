@@ -1,0 +1,53 @@
+@media (min-width: 1200px) {
+  #navbarMenu {
+    display: none !important;
+  }
+}
+
+@media (max-width: 500px) {
+  h4 {
+    text-align: center;
+  }
+}
+
+.navbar {
+  background-color: #00bfb3;
+}
+
+.nav-item {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.hero {
+  background-image: url(./images/computer-more-opac.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h1,h3 {
+  color: black;
+  font-weight: bold;
+}
+
+body {
+  background-color: #00bfb3;
+}
+
+h4 {
+  color: white;
+  font-weight: bold;
+}
+
+h5,p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+.java-section {
+  height:300px;
+}
