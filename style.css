@@ -65,3 +65,7 @@ h5,p {
 a:hover {
   color: #202020;
 }
+
+a.st-search-show-outputs.st-ui-search-tab {
+    color: white;
+}
