@@ -20,16 +20,18 @@ html {
 
 .nav-item {
   color: white;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Turret Road', cursive;
 
 }
 
 .hero {
-  background-image: url(./images/computer-more-opac.jpg);
+  background-image: url(./images/mktg-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
+  font-family: 'Turret Road', cursive;
+
 }
 
 h1,h3 {
@@ -44,10 +46,12 @@ body {
 h4 {
   color: white;
   font-weight: bold;
+  font-family: 'Turret Road', cursive;
+
 }
 
 h5,p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Turret Road', cursive;
   text-align: center;
   color: black;
 }
@@ -59,7 +63,7 @@ h5,p {
 
 .footer-links:hover {
   color: #202020;
-  text-decration: underline;
+  text-decoration: underline;
 }
 
 a:hover {
